@@ -5,7 +5,11 @@ InstalÃ© cleinte GIT de escritorio en Windows + Visual Studio Codew + Phthon en 
 
 Esta cambio lo hice desde hit.hub. Debo hacer commit.
 
-Editores a usar:
+Editores a usar en git-cola:
 nedit (funciona con X11)
 nvim (funciona con X11)
 geany (no funciona con X11)
+
+push no funciona en git-cola con X11. No se ha encontrado la solución.  HAcer push desde el entnrno gráfico nativo de RHEL.
+
+

@@ -10,6 +10,8 @@ nedit (funciona con X11)
 nvim (funciona con X11)
 geany (no funciona con X11)
 
-push no funciona en git-cola con X11. No se ha encontrado la solución.  HAcer push desde el entnrno gráfico nativo de RHEL.
+push no funciona en git-cola con X11. No se ha encontrado la soluciÃ³n.
+Hacer push desde el entnrno gráfico nativo de RHEL.
 
+Llave usada: id_ed25519 (enorag default)
 
